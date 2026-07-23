@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA) 
 The complete EDA guide + hands-on projects: data cleaning, univariate/bivariate/multivariate analysis, statistical validation, and visual storytelling. Python, SQL, Power BI. Building this while preparing for Data Analyst roles.
 
 ---
@@ -19,6 +19,7 @@ More detail on each step will be added as I write it up properly.
 ## Tools
 
 Python (pandas, numpy) · matplotlib / seaborn · SQL (PostgreSQL) · Power BI + DAX
+
 
 ---
 
